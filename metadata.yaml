@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '34468'
     url: http://www.gutenberg.org/2009/agents/34468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34303#A-New-Bat--Genus-Myotis--From-Mexico
 gutenberg_issued: '2010-11-12'
 gutenberg_type: Text
 identifiers:
